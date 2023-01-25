@@ -1,0 +1,53 @@
+{
+    "arrayAnimales": [
+        {
+            "Reino": "Metazoa",
+            "Filo": "Chordata",
+            "Clases": "Actinopterygii",
+            "Orden": "Perciformes",
+            "Familia": "Pomacentridae",
+            "Genero": "Abudefduf",
+            "Especie": "Abudefduf saxatilis (Linnaeus, 1758)",
+            "Nombre":  "Fula tropical",
+            "RefTitulo": "Justificación de sinonimias de especies marinas.",
+            "RefNombre": "Brito Hernández, A.",
+            "RefAno": "2013",
+            "RefUbicacion": "Referencia de experto",
+            "link": "https://www.biodiversidadcanarias.es/biota/especie/E02372",
+            "imagen":"https://www.biodiversidadcanarias.es/biota/especie/E02372/imagen?filename=abudefduf_saxatilis_107085971_47056755_3121_3527.jpg"
+        },
+        {
+            "Reino": "Metazoa",
+            "Filo": "Chordata",
+            "Clases": "Aves",
+            "Orden": "Passeriformes",
+            "Familia": "Fringillidae",
+            "Genero": "Linaria",
+            "Especie": "Linaria cannabina (Linnaeus, 1758)",
+            "Nombre":  "Pardillo canario",
+            "RefTitulo": "Notes on the birds of Gran Canaria.",
+            "RefNombre": "Asbirk, S.",
+            "RefAno": "1972",
+            "RefUbicacion": "Publicación",
+            "link": "https://www.biodiversidadcanarias.es/biota/especie/V00092",
+            "imagen":"https://www.biodiversidadcanarias.es/biota/especie/V00092/imagen?filename=_SSS_2021_SSS_3_SSS_linaria__cannabina_meadewaldoi_208404656_326_9410_7180.jpg"
+            
+        },
+        {
+            "Reino": "Metazoa",
+            "Filo": "Chordata",
+            "Clases": "Aves",
+            "Orden": "Strigiformes",
+            "Familia": "Strigidae",
+            "Genero": "Asio",
+            "Especie": "Asio otus (Linnaeus, 1758)",
+            "Nombre":  "Búho chico canario",
+            "RefTitulo": "Relación de imágenes cedidas por J.J. Bacallado para el Banco de Datos de Biodiversidad de Canarias.",
+            "RefNombre": "Bacallado Aránega, J. J.",
+            "RefAno": "2021",
+            "RefUbicacion": "Referencia de experto",
+            "link": "https://www.biodiversidadcanarias.es/biota/especie/V00019",
+            "imagen":"https://www.biodiversidadcanarias.es/biota/especie/V00019/imagen?filename=_SSS_2019_SSS_7_SSS_asio_otus_canariensis_103907356_368_3281_8517.jpg"
+        }
+    ]
+}
